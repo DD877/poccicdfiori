@@ -1,0 +1,11 @@
+<mvc:View controllerName="democicd.controller.main"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <VBox id="vb">
+                <Title id="t1" text="new change 18-01-2023"/>
+            </VBox>
+        </content>
+    </Page>
+</mvc:View>
