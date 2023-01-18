@@ -6,6 +6,7 @@
             <VBox id="vb">
                 <Title id="t1" text="new change 18-01-2023"/>
                 <Title id="t2" text="v3"/>
+                <Title id="t3" text="v4"/>
             </VBox>
         </content>
     </Page>
